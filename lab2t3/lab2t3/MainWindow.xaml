@@ -5,17 +5,24 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:lab2t3"
         mc:Ignorable="d"
-        Title="MainWindow" Height="500" Width="500">
+        Title="MainWindow" Height="500" Width="550">
     <Grid>
-        <Label Content="Пароль" HorizontalAlignment="Left" Margin="161,163,0,0" VerticalAlignment="Top" FontSize="20"/>
-        <Label Content="Логин" Margin="173,114,260,308" FontSize="20"/>
-        <Label Content="Подтверждение пароля" HorizontalAlignment="Left" Margin="10,221,0,0" VerticalAlignment="Top" FontSize="20" Width="240"/>
-        <Label Content="Эл. почта" HorizontalAlignment="Left" Margin="144,275,0,0" VerticalAlignment="Top" FontSize="20"/>
-        <TextBox HorizontalAlignment="Left" Margin="250,123,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="200" Height="30"/>
-        <TextBox HorizontalAlignment="Left" Margin="250,0,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Center" Width="200" Height="30"/>
-        <TextBox HorizontalAlignment="Left" Margin="250,172,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="200" Height="30"/>
-        <TextBox HorizontalAlignment="Left" Margin="250,284,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="200" Height="30"/>
-        <Button Content="Зарегистрироваться"  HorizontalAlignment="Center" Margin="0,379,0,0" VerticalAlignment="Top" Height="56" Width="229" FontSize="20"/>
+        <Label Content="Пароль" x:Name="PasswordLabel" HorizontalAlignment="Left" Margin="161,179,0,0" VerticalAlignment="Top" FontSize="20"/>
+        <Label Content="Логин" x:Name="LoginLabel" Margin="173,116,260,306" FontSize="20"/>
+        <Label Content="Подтверждение пароля" x:Name="CheckPasswordLabel" HorizontalAlignment="Left" Margin="10,242,0,0" VerticalAlignment="Top" FontSize="20" Width="240"/>
+        <Label Content="Эл. почта" x:Name="EmailLabel" HorizontalAlignment="Left" Margin="144,300,0,0" VerticalAlignment="Top" FontSize="20"/>
+        <TextBox HorizontalAlignment="Left" x:Name="LoginTextBox" Margin="250,123,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="200" Height="30" FontSize="16"/>
+        <TextBox HorizontalAlignment="Left" x:Name="CheckPasswordTextBox" Margin="253,245,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="200" Height="30" FontSize="16"/>
+        <TextBox HorizontalAlignment="Left" x:Name="PasswordTextBox" Margin="252,188,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="200" Height="30" FontSize="16"/>
+        <TextBox HorizontalAlignment="Left" x:Name="EmailTextBox" Margin="250,309,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="200" Height="30" FontSize="16"/>
+        <Button Content="Зарегистрироваться" x:Name="RegistrationButton" HorizontalAlignment="Center" Margin="0,379,0,0" VerticalAlignment="Top" Height="56" Width="229" FontSize="20" Click="RegistrationButton_Click"/>
+        <Label Content="Заполните это поле" x:Name="LoginNullLabel" HorizontalAlignment="Left" Margin="246,147,0,0" VerticalAlignment="Top" Foreground="Red" Visibility="Hidden"/>
+        <Label Content="Заполните это поле" x:Name="EmailNullLabel" HorizontalAlignment="Left" Margin="246,332,0,0" VerticalAlignment="Top" Foreground="Red" Visibility="Hidden"/>
+        <Label Content="Невалидное значение" x:Name="EmailNonValidLabel" HorizontalAlignment="Left" Margin="246,332,0,0" VerticalAlignment="Top" Foreground="Red" Visibility="Hidden" />
+        <Label Content="Заполните это поле" x:Name="CheckPasswordNullLabel" HorizontalAlignment="Left" Margin="246,267,0,0" VerticalAlignment="Top" Foreground="Red" Visibility="Hidden"/>
+        <Label Content="Пароли не совпадают" x:Name="CheckPasswordNonValidLabel" HorizontalAlignment="Left" Margin="246,267,0,0" VerticalAlignment="Top" Foreground="Red" Visibility="Hidden"/>
+        <Label Content="Заполните это поле" x:Name="PasswordNullLabel" HorizontalAlignment="Left" Margin="246,211,0,0" VerticalAlignment="Top" Foreground="Red"  Visibility="Hidden"/>
+        <Label Content="Невалидное значение" x:Name="PasswordNonValidLabel" HorizontalAlignment="Left" Margin="246,211,0,0" VerticalAlignment="Top" Foreground="Red" Visibility="Hidden"/>
 
     </Grid>
 </Window>

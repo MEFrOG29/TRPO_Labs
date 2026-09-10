@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Temp\\ispp-31\\Lab2\\",
+  "WorkspaceRootPath": "C:\\Temp\\ispp-31\\TRPO_Labs\\Lab2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6064214A-374D-4A09-B7D8-D020FD325936}|Lab2\\Lab2.csproj|c:\\temp\\ispp-31\\lab2\\lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6064214A-374D-4A09-B7D8-D020FD325936}|Lab2\\Lab2.csproj|solutionrelative:lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F319D487-73D8-7112-8F5F-41EC036A539B}|Lab2\\Lab2.csproj|c:\\temp\\ispp-31\\trpo_labs\\lab2\\lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F319D487-73D8-7112-8F5F-41EC036A539B}|Lab2\\Lab2.csproj|solutionrelative:lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Temp\\ispp-31\\Lab2\\Lab2\\Program.cs",
+              "DocumentMoniker": "C:\\Temp\\ispp-31\\TRPO_Labs\\Lab2\\Lab2\\Program.cs",
               "RelativeDocumentMoniker": "Lab2\\Program.cs",
-              "ToolTip": "C:\\Temp\\ispp-31\\Lab2\\Lab2\\Program.cs",
+              "ToolTip": "C:\\Temp\\ispp-31\\TRPO_Labs\\Lab2\\Lab2\\Program.cs",
               "RelativeToolTip": "Lab2\\Program.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCYAAABFAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-10T06:31:43.788Z",
               "EditorCaption": ""

@@ -44,7 +44,9 @@ namespace lab2t1
 
         private void Hyperlink_Click(object sender, RoutedEventArgs e)
         {
-
+            RegistrationWindow window = new();
+            window.Show();
+            this.Close();
         }
     }
 }

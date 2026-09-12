@@ -17,6 +17,9 @@
         <TextBox  x:Name="LoginTextBox" HorizontalAlignment="Left" Margin="129,112,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="200" Height="30" FontSize="16"/>
         <TextBox  x:Name="PasswordTextBox" HorizontalAlignment="Left" Margin="129,156,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="200" Height="30" FontSize="16"/>
         <TextBox  x:Name="EmailTextBox" HorizontalAlignment="Left" Margin="129,0,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Center" Width="200" Height="30" FontSize="16"/>
-        <Button x:Name="RegistrationButton" Content="Зарегистрироваться" HorizontalAlignment="Left" Margin="100,286,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.5,0.5" Height="62" Width="194" FontSize="16"/>
+        <Button x:Name="RegistrationButton" Content="Зарегистрироваться" HorizontalAlignment="Center" Margin="0,285,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.5,0.5" Height="62" Width="194" FontSize="16" Click="RegistrationButton_Click"/>
+        <TextBlock Margin="152,369,115,10">
+            <Hyperlink FontSize="16" Click="Hyperlink_Click">Авторизация</Hyperlink>
+        </TextBlock>
     </Grid>
 </Window>

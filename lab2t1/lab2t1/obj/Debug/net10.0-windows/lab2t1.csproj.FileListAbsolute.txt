@@ -42,3 +42,5 @@ D:\Saves\other\TRPO\labs\labwork1\TRPO_Labs\lab2t1\lab2t1\obj\Debug\net10.0-wind
 D:\Saves\other\TRPO\labs\labwork1\TRPO_Labs\lab2t1\lab2t1\obj\Debug\net10.0-windows\lab2t1.csproj.Up2Date
 D:\Saves\other\TRPO\labs\labwork1\TRPO_Labs\lab2t1\lab2t1\obj\Debug\net10.0-windows\AuthorizationWindow.g.cs
 D:\Saves\other\TRPO\labs\labwork1\TRPO_Labs\lab2t1\lab2t1\obj\Debug\net10.0-windows\AuthorizationWindow.baml
+D:\Saves\other\TRPO\labs\labwork1\TRPO_Labs\lab2t1\lab2t1\obj\Debug\net10.0-windows\RegistrationWindow.g.cs
+D:\Saves\other\TRPO\labs\labwork1\TRPO_Labs\lab2t1\lab2t1\obj\Debug\net10.0-windows\RegistrationWindow.baml

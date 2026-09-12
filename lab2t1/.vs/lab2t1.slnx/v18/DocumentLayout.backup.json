@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "D:\\Saves\\other\\TRPO\\labs\\labwork1\\TRPO_Labs\\lab2t1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E17DEE4A-8CC3-2A3B-77CB-BADEB3A83665}|lab2t1\\lab2t1.csproj|d:\\saves\\other\\trpo\\labs\\labwork1\\trpo_labs\\lab2t1\\lab2t1\\registrationwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E17DEE4A-8CC3-2A3B-77CB-BADEB3A83665}|lab2t1\\lab2t1.csproj|solutionrelative:lab2t1\\registrationwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E17DEE4A-8CC3-2A3B-77CB-BADEB3A83665}|lab2t1\\lab2t1.csproj|d:\\saves\\other\\trpo\\labs\\labwork1\\trpo_labs\\lab2t1\\lab2t1\\registrationwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E17DEE4A-8CC3-2A3B-77CB-BADEB3A83665}|lab2t1\\lab2t1.csproj|solutionrelative:lab2t1\\registrationwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E17DEE4A-8CC3-2A3B-77CB-BADEB3A83665}|lab2t1\\lab2t1.csproj|d:\\saves\\other\\trpo\\labs\\labwork1\\trpo_labs\\lab2t1\\lab2t1\\authorizationwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{E17DEE4A-8CC3-2A3B-77CB-BADEB3A83665}|lab2t1\\lab2t1.csproj|solutionrelative:lab2t1\\authorizationwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E17DEE4A-8CC3-2A3B-77CB-BADEB3A83665}|lab2t1\\lab2t1.csproj|d:\\saves\\other\\trpo\\labs\\labwork1\\trpo_labs\\lab2t1\\lab2t1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E17DEE4A-8CC3-2A3B-77CB-BADEB3A83665}|lab2t1\\lab2t1.csproj|solutionrelative:lab2t1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E17DEE4A-8CC3-2A3B-77CB-BADEB3A83665}|lab2t1\\lab2t1.csproj|d:\\saves\\other\\trpo\\labs\\labwork1\\trpo_labs\\lab2t1\\lab2t1\\authorizationwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
@@ -13,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E17DEE4A-8CC3-2A3B-77CB-BADEB3A83665}|lab2t1\\lab2t1.csproj|d:\\saves\\other\\trpo\\labs\\labwork1\\trpo_labs\\lab2t1\\lab2t1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{E17DEE4A-8CC3-2A3B-77CB-BADEB3A83665}|lab2t1\\lab2t1.csproj|solutionrelative:lab2t1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E17DEE4A-8CC3-2A3B-77CB-BADEB3A83665}|lab2t1\\lab2t1.csproj|d:\\saves\\other\\trpo\\labs\\labwork1\\trpo_labs\\lab2t1\\lab2t1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{E17DEE4A-8CC3-2A3B-77CB-BADEB3A83665}|lab2t1\\lab2t1.csproj|solutionrelative:lab2t1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E17DEE4A-8CC3-2A3B-77CB-BADEB3A83665}|lab2t1\\lab2t1.csproj|d:\\saves\\other\\trpo\\labs\\labwork1\\trpo_labs\\lab2t1\\lab2t1\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,23 +50,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "RegistrationWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Saves\\other\\TRPO\\labs\\labwork1\\TRPO_Labs\\lab2t1\\lab2t1\\RegistrationWindow.xaml.cs",
+              "RelativeDocumentMoniker": "lab2t1\\RegistrationWindow.xaml.cs",
+              "ToolTip": "D:\\Saves\\other\\TRPO\\labs\\labwork1\\TRPO_Labs\\lab2t1\\lab2t1\\RegistrationWindow.xaml.cs*",
+              "RelativeToolTip": "lab2t1\\RegistrationWindow.xaml.cs*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA1wBwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-12T17:50:53.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegistrationWindow.xaml",
+              "DocumentMoniker": "D:\\Saves\\other\\TRPO\\labs\\labwork1\\TRPO_Labs\\lab2t1\\lab2t1\\RegistrationWindow.xaml",
+              "RelativeDocumentMoniker": "lab2t1\\RegistrationWindow.xaml",
+              "ToolTip": "D:\\Saves\\other\\TRPO\\labs\\labwork1\\TRPO_Labs\\lab2t1\\lab2t1\\RegistrationWindow.xaml",
+              "RelativeToolTip": "lab2t1\\RegistrationWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-09-10T19:43:26.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "D:\\Saves\\other\\TRPO\\labs\\labwork1\\TRPO_Labs\\lab2t1\\lab2t1\\MainWindow.xaml",
               "RelativeDocumentMoniker": "lab2t1\\MainWindow.xaml",
               "ToolTip": "D:\\Saves\\other\\TRPO\\labs\\labwork1\\TRPO_Labs\\lab2t1\\lab2t1\\MainWindow.xaml",
               "RelativeToolTip": "lab2t1\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-09-09T15:54:00.104Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-09T15:54:00.104Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "AuthorizationWindow.xaml",
               "DocumentMoniker": "D:\\Saves\\other\\TRPO\\labs\\labwork1\\TRPO_Labs\\lab2t1\\lab2t1\\AuthorizationWindow.xaml",
               "RelativeDocumentMoniker": "lab2t1\\AuthorizationWindow.xaml",
@@ -70,16 +102,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "AuthorizationWindow.xaml.cs",
               "DocumentMoniker": "D:\\Saves\\other\\TRPO\\labs\\labwork1\\TRPO_Labs\\lab2t1\\lab2t1\\AuthorizationWindow.xaml.cs",
               "RelativeDocumentMoniker": "lab2t1\\AuthorizationWindow.xaml.cs",
               "ToolTip": "D:\\Saves\\other\\TRPO\\labs\\labwork1\\TRPO_Labs\\lab2t1\\lab2t1\\AuthorizationWindow.xaml.cs",
               "RelativeToolTip": "lab2t1\\AuthorizationWindow.xaml.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAkwCcAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAswC4AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-10T19:05:27.973Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-10T19:05:27.973Z"
             },
             {
               "$type": "Document",
@@ -95,7 +126,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "App.xaml.cs",
               "DocumentMoniker": "D:\\Saves\\other\\TRPO\\labs\\labwork1\\TRPO_Labs\\lab2t1\\lab2t1\\App.xaml.cs",
               "RelativeDocumentMoniker": "lab2t1\\App.xaml.cs",
@@ -103,12 +134,11 @@
               "RelativeToolTip": "lab2t1\\App.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-10T19:01:52.11Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-10T19:01:52.11Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "D:\\Saves\\other\\TRPO\\labs\\labwork1\\TRPO_Labs\\lab2t1\\lab2t1\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "lab2t1\\MainWindow.xaml.cs",
@@ -116,25 +146,23 @@
               "RelativeToolTip": "lab2t1\\MainWindow.xaml.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-09T15:53:57.245Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-09T15:53:57.245Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "lab2t1",
+              "DocumentIndex": 8,
+              "Title": "lab2t1.csproj",
               "DocumentMoniker": "D:\\Saves\\other\\TRPO\\labs\\labwork1\\TRPO_Labs\\lab2t1\\lab2t1\\lab2t1.csproj",
               "RelativeDocumentMoniker": "lab2t1\\lab2t1.csproj",
               "ToolTip": "D:\\Saves\\other\\TRPO\\labs\\labwork1\\TRPO_Labs\\lab2t1\\lab2t1\\lab2t1.csproj",
               "RelativeToolTip": "lab2t1\\lab2t1.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-09-10T19:01:44.899Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-10T19:01:44.899Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "User.cs",
               "DocumentMoniker": "D:\\Saves\\other\\TRPO\\labs\\labwork1\\TRPO_Labs\\lab2t1\\lab2t1\\User.cs",
               "RelativeDocumentMoniker": "lab2t1\\User.cs",
@@ -142,8 +170,7 @@
               "RelativeToolTip": "lab2t1\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-10T18:56:42.664Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-10T18:56:42.664Z"
             }
           ]
         }

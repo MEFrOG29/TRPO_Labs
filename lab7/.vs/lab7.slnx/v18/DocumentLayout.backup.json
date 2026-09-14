@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Temp\\ispp-31\\TRPO_Labs\\lab7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E57FC6E-8FDB-4F18-9B74-63BA9A71D298}|Lab7t2\\Lab7t2.csproj|c:\\temp\\ispp-31\\trpo_labs\\lab7\\lab7t2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E57FC6E-8FDB-4F18-9B74-63BA9A71D298}|Lab7t2\\Lab7t2.csproj|solutionrelative:lab7t2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{743EA900-0723-45B3-B278-563AB2C3075A}|lab7\\lab7.csproj|c:\\temp\\ispp-31\\trpo_labs\\lab7\\lab7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{743EA900-0723-45B3-B278-563AB2C3075A}|lab7\\lab7.csproj|solutionrelative:lab7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Temp\\ispp-31\\TRPO_Labs\\lab7\\Lab7t2\\Program.cs",
+              "RelativeDocumentMoniker": "Lab7t2\\Program.cs",
+              "ToolTip": "C:\\Temp\\ispp-31\\TRPO_Labs\\lab7\\Lab7t2\\Program.cs*",
+              "RelativeToolTip": "Lab7t2\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T06:06:56.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Temp\\ispp-31\\TRPO_Labs\\lab7\\lab7\\Program.cs",
+              "RelativeDocumentMoniker": "lab7\\Program.cs",
+              "ToolTip": "C:\\Temp\\ispp-31\\TRPO_Labs\\lab7\\lab7\\Program.cs",
+              "RelativeToolTip": "lab7\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T05:36:49.798Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

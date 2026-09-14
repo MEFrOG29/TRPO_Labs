@@ -20,22 +20,13 @@ namespace lab2t1
     /// </summary>
     public partial class MainWindow : Window
     {
-        const string FilePath = "D:\\Saves\\other\\TRPO\\lab2t1\\users.csv";
+        const string FilePath = "D:\\Saves\\other\\TRPO\\labs\\labwork1\\TRPO_Labs\\lab2t1\\users.csv";
 
         public MainWindow()
         {
             InitializeComponent();
 
             LoadUsersFromFile(FilePath);
-        }
-
-        public class User
-        {
-            public string Name { get; set; }
-            public string Surname { get; set; }
-            public string Login { get; set; }
-            public string Email { get; set; }
-            public string Password { get; set; }
         }
 
         private void ImportButton_Click(object sender, RoutedEventArgs e)
@@ -45,9 +36,10 @@ namespace lab2t1
                 Filter = "CSV файлы (*.csv)|*.csv|Все файлы (*.*)|*.*"
             };
 
-            if(ofd.ShowDialog() == true)
+            if (ofd.ShowDialog() == true)
             {
                 LoadUsersFromFile(ofd.FileName);
+                MessageBox.Show("Данные импортированы", "ОК", MessageBoxButton.OK);
             }
         }
 
@@ -85,15 +77,34 @@ namespace lab2t1
 
         private void ExportButton_Click(object sender, RoutedEventArgs e)
         {
+
             SaveFileDialog sfd = new SaveFileDialog();
             sfd.Filter = "CSV файлы (*.csv)|*.csv|Все файлы (*.*)|*.*";
 
 
-            if(sfd.ShowDialog() == true)
+            if (sfd.ShowDialog() == true)
             {
-                File.WriteAllLines(sfd.FileName, );
-            }
+                List<string> lines = new List<string>();
+                var users = UsersList.ItemsSource as IEnumerable<User>;
 
+                foreach (User user in users)
+                {
+                    string name = user.Name.Replace(";", " ") ?? "";
+                    string surname = user.Surname.Replace(";", " ") ?? "";
+                    string login = user.Login.Replace(";", " ") ?? "";
+                    string email = user.Email.Replace(";", " ") ?? "";
+                    string password = user.Password.Replace(";", " ") ?? "";
+
+                    string line = $"{name};{surname};{login};{email};{password}";
+                    lines.Add(line);
+                }
+                {
+
+                    File.WriteAllLines(sfd.FileName, lines, System.Text.Encoding.UTF8);
+                    MessageBox.Show("Данные экспортированы", "ОК", MessageBoxButton.OK);
+                }
+
+            }
         }
     }
 }

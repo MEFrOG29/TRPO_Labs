@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Temp\\ispp-31\\TRPO_Labs\\Lab9t4-8\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{05F8444F-BAC4-4BEB-A082-2314248CB4A8}|Lab9t4-8\\Lab9t4-8.csproj|c:\\temp\\ispp-31\\trpo_labs\\lab9t4-8\\lab9t4-8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05F8444F-BAC4-4BEB-A082-2314248CB4A8}|Lab9t4-8\\Lab9t4-8.csproj|solutionrelative:lab9t4-8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1F7E4950-6592-6834-5573-E417E8BD39F5}|Lab9t4-8\\Lab9t4-8.csproj|c:\\temp\\ispp-31\\trpo_labs\\lab9t4-8\\lab9t4-8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F7E4950-6592-6834-5573-E417E8BD39F5}|Lab9t4-8\\Lab9t4-8.csproj|solutionrelative:lab9t4-8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,7 +24,7 @@
               "RelativeDocumentMoniker": "Lab9t4-8\\Program.cs",
               "ToolTip": "C:\\Temp\\ispp-31\\TRPO_Labs\\Lab9t4-8\\Lab9t4-8\\Program.cs",
               "RelativeToolTip": "Lab9t4-8\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAuwGQAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-23T08:27:23.59Z",
               "EditorCaption": ""

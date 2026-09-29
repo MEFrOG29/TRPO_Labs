@@ -20,7 +20,7 @@ namespace lab2t1
     /// </summary>
     public partial class MainWindow : Window
     {
-        const string FilePath = "D:\\Saves\\other\\TRPO\\labs\\labwork1\\TRPO_Labs\\lab2t1\\users.csv";
+        const string FilePath = "C:\\Temp\\ispp-31\\TRPO_Labs\\lab2t1\\users.csv";
 
         public MainWindow()
         {

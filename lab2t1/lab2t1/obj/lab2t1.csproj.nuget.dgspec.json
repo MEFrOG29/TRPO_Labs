@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Saves\\other\\TRPO\\labs\\labwork1\\TRPO_Labs\\lab2t1\\lab2t1\\lab2t1.csproj": {}
+    "C:\\Temp\\ispp-31\\TRPO_Labs\\lab2t1\\lab2t1\\lab2t1.csproj": {}
   },
   "projects": {
-    "D:\\Saves\\other\\TRPO\\labs\\labwork1\\TRPO_Labs\\lab2t1\\lab2t1\\lab2t1.csproj": {
+    "C:\\Temp\\ispp-31\\TRPO_Labs\\lab2t1\\lab2t1\\lab2t1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Saves\\other\\TRPO\\labs\\labwork1\\TRPO_Labs\\lab2t1\\lab2t1\\lab2t1.csproj",
+        "projectUniqueName": "C:\\Temp\\ispp-31\\TRPO_Labs\\lab2t1\\lab2t1\\lab2t1.csproj",
         "projectName": "lab2t1",
-        "projectPath": "D:\\Saves\\other\\TRPO\\labs\\labwork1\\TRPO_Labs\\lab2t1\\lab2t1\\lab2t1.csproj",
-        "packagesPath": "C:\\Users\\vadya\\.nuget\\packages\\",
-        "outputPath": "D:\\Saves\\other\\TRPO\\labs\\labwork1\\TRPO_Labs\\lab2t1\\lab2t1\\obj\\",
+        "projectPath": "C:\\Temp\\ispp-31\\TRPO_Labs\\lab2t1\\lab2t1\\lab2t1.csproj",
+        "packagesPath": "C:\\Users\\0109-09\\.nuget\\packages\\",
+        "outputPath": "C:\\Temp\\ispp-31\\TRPO_Labs\\lab2t1\\lab2t1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\vadya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\0109-09\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -70,7 +70,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.400/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",

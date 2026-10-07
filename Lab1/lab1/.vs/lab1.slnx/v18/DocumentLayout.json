@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Temp\\ispp-31\\TRPO_Labs\\Lab1\\lab1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5BFD7CFC-9D33-41A0-B148-DDAD2116E6D7}|lab1\\lab1.csproj|c:\\temp\\ispp-31\\trpo_labs\\lab1\\lab1\\lab1\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BFD7CFC-9D33-41A0-B148-DDAD2116E6D7}|lab1\\lab1.csproj|solutionrelative:lab1\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BFD7CFC-9D33-41A0-B148-DDAD2116E6D7}|lab1\\lab1.csproj|c:\\temp\\ispp-31\\trpo_labs\\lab1\\lab1\\lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BFD7CFC-9D33-41A0-B148-DDAD2116E6D7}|lab1\\lab1.csproj|solutionrelative:lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BFD7CFC-9D33-41A0-B148-DDAD2116E6D7}|lab1\\lab1.csproj|c:\\temp\\ispp-31\\trpo_labs\\lab1\\lab1\\lab1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5BFD7CFC-9D33-41A0-B148-DDAD2116E6D7}|lab1\\lab1.csproj|solutionrelative:lab1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Temp\\ispp-31\\TRPO_Labs\\Lab1\\lab1\\lab1\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "lab1\\Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Temp\\ispp-31\\TRPO_Labs\\Lab1\\lab1\\lab1\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "lab1\\Models\\AppDbContext.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA9wB8AAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T06:32:09.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Temp\\ispp-31\\TRPO_Labs\\Lab1\\lab1\\lab1\\appsettings.json",
+              "RelativeDocumentMoniker": "lab1\\appsettings.json",
+              "ToolTip": "C:\\Temp\\ispp-31\\TRPO_Labs\\Lab1\\lab1\\lab1\\appsettings.json",
+              "RelativeToolTip": "lab1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-07T05:48:58.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Temp\\ispp-31\\TRPO_Labs\\Lab1\\lab1\\lab1\\Program.cs",
+              "RelativeDocumentMoniker": "lab1\\Program.cs",
+              "ToolTip": "C:\\Temp\\ispp-31\\TRPO_Labs\\Lab1\\lab1\\lab1\\Program.cs",
+              "RelativeToolTip": "lab1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T05:44:53.776Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
